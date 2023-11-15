@@ -1,12 +1,6 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# A stunning and powerful SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
-
-
-
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
+This is a repository for a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
 Features:
 
@@ -90,3 +84,6 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+# Designer & Developer
+- Andrew Tsegaye
