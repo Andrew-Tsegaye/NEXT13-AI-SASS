@@ -1,5 +1,7 @@
 # A stunning and powerful SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
+![photo](https://i.imgur.com/0FQgFKN.png)
+
 This is a repository for a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
 Features:
